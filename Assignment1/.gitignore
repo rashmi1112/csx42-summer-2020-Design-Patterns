@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.rar
+hs_err_pid*
+.idea/
+csx42-summer-2020-assign1-rashmi1112.iml
+Assignment1.iml
+
